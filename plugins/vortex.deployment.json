@@ -1,0 +1,107 @@
+{
+  "instance": "66ab1404-321e-4295-b28c-14da3d425915",
+  "version": 1,
+  "deploymentMethod": "hardlink_activator",
+  "gameId": "valheim",
+  "deploymentTime": 1694942936356,
+  "stagingPath": "C:\\Users\\Steve\\AppData\\Roaming\\Vortex\\valheim\\mods",
+  "targetPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Valheim\\BepInEx\\plugins",
+  "files": [
+    {
+      "relPath": "BlacksmithTools.dll",
+      "source": "Blacksmith's tools 2.0.3-566-2-0-3-1686638296",
+      "target": "",
+      "time": 1686637562000
+    },
+    {
+      "relPath": "HitboxFix.dll",
+      "source": "Slope Hit Fix MAIN-727-1-3-0-1617676620",
+      "target": "",
+      "time": 1617676360000
+    },
+    {
+      "relPath": "OdinShip\\OdinShip.dll",
+      "source": "OdinShip-2403-0-3-2-1692768856",
+      "target": "",
+      "time": 1692765325000
+    },
+    {
+      "relPath": "Bears\\Bears.dll",
+      "source": "Bears - Test-1342-0-1-4-1642649795",
+      "target": "",
+      "time": 1642617180000
+    },
+    {
+      "relPath": "UseEquipmentInWater.dll",
+      "source": "UseEquipmentInWater.zip-121-0-2-4-1686694391",
+      "target": "",
+      "time": 1686693278000
+    },
+    {
+      "relPath": "RenegadeVikings.dll",
+      "source": "RenegadeVikings-2491-1-1-6-1694081723",
+      "target": "",
+      "time": 1694081224000
+    },
+    {
+      "relPath": "RenegadeVikings.English.yml",
+      "source": "RenegadeVikings-2491-1-1-6-1694081723",
+      "target": "",
+      "time": 1694077770000
+    },
+    {
+      "relPath": "SpeedyPaths.dll",
+      "source": "Speedy Paths-452-1-0-8-1686709925",
+      "target": "",
+      "time": 1686675876000
+    },
+    {
+      "relPath": "FoodDurationMultiplier.dll",
+      "source": "FoodDurationMultiplier-2118-1-0-8-1692714193",
+      "target": "",
+      "time": 1692520803000
+    },
+    {
+      "relPath": "Jotunn\\Jotunn.dll",
+      "source": "Jotunn-1138-2-12-7-1693300650",
+      "target": "",
+      "time": 1693300558000
+    },
+    {
+      "relPath": "Jotunn\\CHANGELOG.md",
+      "source": "Jotunn-1138-2-12-7-1693300650",
+      "target": "",
+      "time": 1693300066000
+    },
+    {
+      "relPath": "Jotunn\\Jotunn.dll.mdb",
+      "source": "Jotunn-1138-2-12-7-1693300650",
+      "target": "",
+      "time": 1693300559000
+    },
+    {
+      "relPath": "Jotunn\\Jotunn.pdb",
+      "source": "Jotunn-1138-2-12-7-1693300650",
+      "target": "",
+      "time": 1693300558000
+    },
+    {
+      "relPath": "Jotunn\\Jotunn.xml",
+      "source": "Jotunn-1138-2-12-7-1693300650",
+      "target": "",
+      "time": 1693300558000
+    },
+    {
+      "relPath": "Jotunn\\README.md",
+      "source": "Jotunn-1138-2-12-7-1693300650",
+      "target": "",
+      "time": 1683563922000
+    },
+    {
+      "relPath": "ImprovedSwimming.dll",
+      "source": "Improved Swimming 1.1.0-1173-1-1-0-1620898671",
+      "target": "",
+      "time": 1620894518000
+    }
+  ]
+}
