@@ -3,7 +3,7 @@
   "version": 1,
   "deploymentMethod": "hardlink_activator",
   "gameId": "valheim",
-  "deploymentTime": 1694944345276,
+  "deploymentTime": 1695482732729,
   "stagingPath": "C:\\Users\\Steve\\AppData\\Roaming\\Vortex\\valheim\\mods",
   "targetPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Valheim\\BepInEx\\plugins",
   "files": [
@@ -20,34 +20,10 @@
       "time": 1617676360000
     },
     {
-      "relPath": "OdinShip\\OdinShip.dll",
-      "source": "OdinShip-2403-0-3-2-1692768856",
-      "target": "",
-      "time": 1692765325000
-    },
-    {
-      "relPath": "Bears\\Bears.dll",
-      "source": "Bears - Test-1342-0-1-4-1642649795",
-      "target": "",
-      "time": 1642617180000
-    },
-    {
       "relPath": "UseEquipmentInWater.dll",
       "source": "UseEquipmentInWater.zip-121-0-2-4-1686694391",
       "target": "",
       "time": 1686693278000
-    },
-    {
-      "relPath": "RenegadeVikings.dll",
-      "source": "RenegadeVikings-2491-1-1-6-1694081723",
-      "target": "",
-      "time": 1694081224000
-    },
-    {
-      "relPath": "RenegadeVikings.English.yml",
-      "source": "RenegadeVikings-2491-1-1-6-1694081723",
-      "target": "",
-      "time": 1694077770000
     },
     {
       "relPath": "SpeedyPaths.dll",
@@ -102,6 +78,24 @@
       "source": "Improved Swimming 1.1.0-1173-1-1-0-1620898671",
       "target": "",
       "time": 1620894518000
+    },
+    {
+      "relPath": "CraftFromContainers.dll",
+      "source": "Craft From Containers-40-3-4-0-1692720813",
+      "target": "",
+      "time": 1692699186000
+    },
+    {
+      "relPath": "Bears\\Bears.dll",
+      "source": "Bears - Test-1342-0-1-4-1642649795",
+      "target": "",
+      "time": 1642617180000
+    },
+    {
+      "relPath": "OdinShip\\OdinShip.dll",
+      "source": "OdinShip-2403-0-3-2-1692768856",
+      "target": "",
+      "time": 1692765325000
     }
   ]
 }
