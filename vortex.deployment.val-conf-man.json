@@ -3,7 +3,7 @@
   "version": 1,
   "deploymentMethod": "hardlink_activator",
   "gameId": "valheim",
-  "deploymentTime": 1695482732683,
+  "deploymentTime": 1696656900871,
   "stagingPath": "C:\\Users\\Steve\\AppData\\Roaming\\Vortex\\valheim\\mods",
   "targetPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Valheim\\BepInEx",
   "files": [

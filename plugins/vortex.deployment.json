@@ -3,7 +3,7 @@
   "version": 1,
   "deploymentMethod": "hardlink_activator",
   "gameId": "valheim",
-  "deploymentTime": 1695482732729,
+  "deploymentTime": 1696656900969,
   "stagingPath": "C:\\Users\\Steve\\AppData\\Roaming\\Vortex\\valheim\\mods",
   "targetPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Valheim\\BepInEx\\plugins",
   "files": [
@@ -32,70 +32,64 @@
       "time": 1686675876000
     },
     {
-      "relPath": "FoodDurationMultiplier.dll",
-      "source": "FoodDurationMultiplier-2118-1-0-8-1692714193",
-      "target": "",
-      "time": 1692520803000
-    },
-    {
-      "relPath": "Jotunn\\Jotunn.dll",
-      "source": "Jotunn-1138-2-12-7-1693300650",
-      "target": "",
-      "time": 1693300558000
-    },
-    {
-      "relPath": "Jotunn\\CHANGELOG.md",
-      "source": "Jotunn-1138-2-12-7-1693300650",
-      "target": "",
-      "time": 1693300066000
-    },
-    {
-      "relPath": "Jotunn\\Jotunn.dll.mdb",
-      "source": "Jotunn-1138-2-12-7-1693300650",
-      "target": "",
-      "time": 1693300559000
-    },
-    {
-      "relPath": "Jotunn\\Jotunn.pdb",
-      "source": "Jotunn-1138-2-12-7-1693300650",
-      "target": "",
-      "time": 1693300558000
-    },
-    {
-      "relPath": "Jotunn\\Jotunn.xml",
-      "source": "Jotunn-1138-2-12-7-1693300650",
-      "target": "",
-      "time": 1693300558000
-    },
-    {
-      "relPath": "Jotunn\\README.md",
-      "source": "Jotunn-1138-2-12-7-1693300650",
-      "target": "",
-      "time": 1683563922000
-    },
-    {
-      "relPath": "ImprovedSwimming.dll",
-      "source": "Improved Swimming 1.1.0-1173-1-1-0-1620898671",
-      "target": "",
-      "time": 1620894518000
-    },
-    {
-      "relPath": "CraftFromContainers.dll",
-      "source": "Craft From Containers-40-3-4-0-1692720813",
-      "target": "",
-      "time": 1692699186000
-    },
-    {
       "relPath": "Bears\\Bears.dll",
       "source": "Bears - Test-1342-0-1-4-1642649795",
       "target": "",
       "time": 1642617180000
     },
     {
+      "relPath": "Jotunn\\Jotunn.dll",
+      "source": "Jotunn-1138-2-14-3-1696496588",
+      "target": "",
+      "time": 1696496430000
+    },
+    {
+      "relPath": "Jotunn\\CHANGELOG.md",
+      "source": "Jotunn-1138-2-14-3-1696496588",
+      "target": "",
+      "time": 1696495433000
+    },
+    {
+      "relPath": "Jotunn\\Jotunn.pdb",
+      "source": "Jotunn-1138-2-14-3-1696496588",
+      "target": "",
+      "time": 1696496430000
+    },
+    {
+      "relPath": "Jotunn\\Jotunn.dll.mdb",
+      "source": "Jotunn-1138-2-14-3-1696496588",
+      "target": "",
+      "time": 1696496431000
+    },
+    {
+      "relPath": "Jotunn\\Jotunn.xml",
+      "source": "Jotunn-1138-2-14-3-1696496588",
+      "target": "",
+      "time": 1696496430000
+    },
+    {
+      "relPath": "Jotunn\\README.md",
+      "source": "Jotunn-1138-2-14-3-1696496588",
+      "target": "",
+      "time": 1695073762000
+    },
+    {
+      "relPath": "FoodDurationMultiplier.dll",
+      "source": "FoodDurationMultiplier-2118-1-0-8-1692714193",
+      "target": "",
+      "time": 1696564879000
+    },
+    {
+      "relPath": "CraftFromContainers.dll",
+      "source": "Craft From Containers-40-3-4-0-1692720813",
+      "target": "",
+      "time": 1696583516000
+    },
+    {
       "relPath": "OdinShip\\OdinShip.dll",
       "source": "OdinShip-2403-0-3-2-1692768856",
       "target": "",
-      "time": 1692765325000
+      "time": 1696635278000
     }
   ]
 }

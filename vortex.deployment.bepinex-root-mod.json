@@ -3,70 +3,10 @@
   "version": 1,
   "deploymentMethod": "hardlink_activator",
   "gameId": "valheim",
-  "deploymentTime": 1695482732663,
+  "deploymentTime": 1696656900824,
   "stagingPath": "C:\\Users\\Steve\\AppData\\Roaming\\Vortex\\valheim\\mods",
   "targetPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Valheim\\BepInEx",
   "files": [
-    {
-      "relPath": "plugins\\BetterArcheryRecipes.json",
-      "source": "Better Archery-348-1-9-3-1693238089",
-      "target": "",
-      "time": 1651670006000
-    },
-    {
-      "relPath": "plugins\\BetterArchery.dll",
-      "source": "Better Archery-348-1-9-3-1693238089",
-      "target": "",
-      "time": 1693237926000
-    },
-    {
-      "relPath": "plugins\\SFX\\exhale\\exhale_3.wav",
-      "source": "Better Archery-348-1-9-3-1693238089",
-      "target": "",
-      "time": 1651670006000
-    },
-    {
-      "relPath": "plugins\\SFX\\inhale\\inhale_1.wav",
-      "source": "Better Archery-348-1-9-3-1693238089",
-      "target": "",
-      "time": 1651670006000
-    },
-    {
-      "relPath": "plugins\\SFX\\inhale\\inhale_3.wav",
-      "source": "Better Archery-348-1-9-3-1693238089",
-      "target": "",
-      "time": 1651670006000
-    },
-    {
-      "relPath": "plugins\\SFX\\exhale\\exhale_1.wav",
-      "source": "Better Archery-348-1-9-3-1693238089",
-      "target": "",
-      "time": 1651670006000
-    },
-    {
-      "relPath": "plugins\\SFX\\exhale\\exhale_2.wav",
-      "source": "Better Archery-348-1-9-3-1693238089",
-      "target": "",
-      "time": 1651670006000
-    },
-    {
-      "relPath": "plugins\\SFX\\inhale\\inhale_2.wav",
-      "source": "Better Archery-348-1-9-3-1693238089",
-      "target": "",
-      "time": 1651670006000
-    },
-    {
-      "relPath": "plugins\\AeehyehssReeper-ChaosArmor\\ChaosArmor.dll",
-      "source": "Chaos Armor 12.3.1-1215-12-3-1-1692708586",
-      "target": "",
-      "time": 1688588590000
-    },
-    {
-      "relPath": "plugins\\AeehyehssReeper-ChaosArmor\\Localization.yml",
-      "source": "Chaos Armor 12.3.1-1215-12-3-1-1692708586",
-      "target": "",
-      "time": 1688059820000
-    },
     {
       "relPath": "plugins\\EnhancedBosses\\EnhancedBosses.dll",
       "source": "Enhanced Bosses-1880-2-0-2-1675103973",
@@ -96,6 +36,18 @@
       "source": "Enhanced Bosses-1880-2-0-2-1675103973",
       "target": "",
       "time": 1675082920000
+    },
+    {
+      "relPath": "plugins\\AeehyehssReeper-ChaosArmor\\ChaosArmor.dll",
+      "source": "Chaos Armor 12.3.1-1215-12-3-1-1692708586",
+      "target": "",
+      "time": 1695064644000
+    },
+    {
+      "relPath": "plugins\\AeehyehssReeper-ChaosArmor\\Localization.yml",
+      "source": "Chaos Armor 12.3.1-1215-12-3-1-1692708586",
+      "target": "",
+      "time": 1688059820000
     }
   ]
 }
